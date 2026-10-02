@@ -47,3 +47,6 @@ Model dosyalari ilk calistirmada otomatik olarak indirilir
 Kamera numarasi, cozunurluk, confidence degeri, model ve takip algoritmasi config.json dosyasindan degistirilebilir.
 
 CUDAGPUrun icin NVIDIA GPU ve CUDA destekli PyTorch gereklidir.
+
+## Iletisim
+Atakan Koçoğlu -atakankocoglu.iletisim@gmail.com
