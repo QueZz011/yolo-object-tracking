@@ -1,0 +1,8 @@
+{
+    "model": "yolo11m.pt",
+    "camera_index": 0,
+    "width": 1280,
+    "height": 720,
+    "conf": 0.4,
+    "tracker": "botsort.yaml"
+}

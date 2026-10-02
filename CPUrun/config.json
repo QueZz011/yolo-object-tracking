@@ -1,0 +1,8 @@
+{
+    "model": "yolo11n.pt",
+    "camera_index": 0,
+    "width": 640,
+    "height": 480,
+    "conf": 0.4,
+    "tracker": "bytetrack.yaml"
+}
